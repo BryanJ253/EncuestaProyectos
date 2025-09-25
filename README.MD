@@ -3,8 +3,8 @@
 
 ## Resultados de la encuesta
 ## Encuestado # 1 ![alt text](image.png)
-# Encuestado # 2 ![alt text](image-1.png)
-# Encuestado # 3 ![alt text](image-2.png)
-# Encuestado # 4 ![alt text](image-3.png)
-# Encuestado # 5 ![alt text](image-7.png)
-# Encuestado # 6 ![alt text](image-8.png)
+## Encuestado # 2 ![alt text](image-1.png)
+## Encuestado # 3 ![alt text](image-2.png)
+## Encuestado # 4 ![alt text](image-3.png)
+## Encuestado # 5 ![alt text](image-7.png)
+## Encuestado # 6 ![alt text](image-8.png)
